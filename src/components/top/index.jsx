@@ -19,7 +19,9 @@ export const Top = ({ title, location, rootPath }) => {
       <Link to={`/til`} className="til">
         TIL
       </Link>
-      {/* <span className="til">TIL</span> */}
+      <Link to={`/blog`} className="til">
+        Blog
+      </Link>
     </div>
   )
 }
