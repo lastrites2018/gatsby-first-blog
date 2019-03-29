@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `lastrites2018`,
   description: `Blog posted about ...`,
   author: `lastrites2018`,
   introduction: `I explain with words and code.`,
@@ -10,7 +10,7 @@ module.exports = {
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
   },
-  icon: `content/assets/penguin.ico`, // Add your favicon
+  icon: `content/assets/penguin.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.

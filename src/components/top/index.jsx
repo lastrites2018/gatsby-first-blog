@@ -13,8 +13,9 @@ export const Top = ({ title, location, rootPath }) => {
           {title}
         </Link>
       )}
-      <span className="portfolio">안녕하세요</span>
+
       <GitHubIcon />
+      <span className="portfolio">Portfolio</span>
     </div>
   )
 }
