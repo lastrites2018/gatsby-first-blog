@@ -26,7 +26,7 @@ function getDistance(currentPos) {
 export default ({ data, location }) => {
   const initialCount = Storage.getCount(1)
   const initialCategory = Storage.getCategory(CATEGORY_TYPE.ALL)
-  console.log('initialCategory: ', initialCategory)
+
   const [count, setCount] = useState(initialCount)
   const countRef = useRef(count)
   const [category, setCategory] = useState(initialCategory)
@@ -76,11 +76,11 @@ export default ({ data, location }) => {
     <Layout location={location} title={siteMetadata.title}>
       <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
       <Bio />
-      <Category
+      {/* <Category
         categories={categories}
         category={category}
         selectCategory={selectCategory}
-      />
+      /> */}
       <Contents
         posts={posts}
         countOfInitialPost={countOfInitialPost}
