@@ -1,5 +1,5 @@
 ---
-title: 20180903 poiemaweb.com 함수Function의 프로퍼티property
+title: poiemaweb.com 함수Function의 프로퍼티property
 date: 2018-09-03
 category: TIL
 ---

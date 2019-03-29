@@ -1,5 +1,5 @@
 ---
-title: 20180828 pre immersive 사전학습
+title: poiemaweb.com 연산자
 date: 2018-08-28
 category: TIL
 ---

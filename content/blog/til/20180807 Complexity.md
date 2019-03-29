@@ -1,5 +1,5 @@
 ---
-title: 20180807 Complexity
+title: Complexity
 date: 2018-08-07
 category: TIL
 ---

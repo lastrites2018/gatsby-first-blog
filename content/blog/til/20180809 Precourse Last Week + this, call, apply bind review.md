@@ -1,5 +1,5 @@
 ---
-title: 20180809 Precourse Last Week + this, call, apply bind review
+title: Precourse Last Week + this, call, apply bind review
 date: 2018-08-09
 category: TIL
 ---

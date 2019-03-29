@@ -1,5 +1,5 @@
 ---
-title: 20180820 What is node + html review
+title: What is node + html review
 date: 2018-08-20
 category: TIL
 ---

@@ -1,5 +1,5 @@
 ---
-title: 20180826 closure & scope chain(코드종 강의)
+title: closure & scope chain(코드종 강의)
 date: 2018-08-26
 category: TIL
 ---

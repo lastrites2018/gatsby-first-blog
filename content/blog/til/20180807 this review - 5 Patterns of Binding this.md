@@ -1,5 +1,5 @@
 ---
-title: 20180807 this review - 5 Patterns of Binding this
+title: this review - 5 Patterns of Binding this
 date: 2018-08-07
 category: TIL
 ---

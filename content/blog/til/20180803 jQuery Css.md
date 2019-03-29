@@ -1,5 +1,5 @@
 ---
-title: 20180803 jQuery Css
+title: jQuery Css
 date: 2018-08-03
 category: TIL
 ---

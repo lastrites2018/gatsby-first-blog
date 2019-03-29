@@ -1,5 +1,5 @@
 ---
-title: 20180831 Asynchronous call
+title: Asynchronous call
 date: 2018-08-31
 category: TIL
 ---

@@ -1,5 +1,5 @@
 ---
-title: 20180826 poiemaweb.com 공부 시작 - 자료형과 변수
+title: poiemaweb.com 공부 시작 - 자료형과 변수
 date: 2018-08-26
 category: TIL
 ---

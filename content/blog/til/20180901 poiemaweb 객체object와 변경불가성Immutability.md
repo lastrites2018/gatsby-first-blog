@@ -1,5 +1,5 @@
 ---
-title: 20180901 poiemaweb 객체object와 변경불가성Immutability
+title: poiemaweb 객체object와 변경불가성Immutability
 date: 2018-09-01
 category: TIL
 ---

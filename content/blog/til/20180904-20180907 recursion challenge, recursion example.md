@@ -1,5 +1,5 @@
 ---
-title: 20180904-20180907 recursion challenge, recursion example
+title: recursion challenge, recursion example
 date: 2018-09-04
 category: TIL
 ---

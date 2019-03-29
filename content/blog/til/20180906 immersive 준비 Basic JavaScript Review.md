@@ -1,5 +1,5 @@
 ---
-title: 20180825 this 또 복습
+title: immersive 준비 Basic JavaScript Review
 date: 2018-09-06
 category: TIL
 ---

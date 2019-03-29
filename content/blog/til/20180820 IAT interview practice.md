@@ -1,5 +1,5 @@
 ---
-title: 20180820 IAT interview practice
+title: IAT interview practice
 date: 2018-08-20
 category: TIL
 ---

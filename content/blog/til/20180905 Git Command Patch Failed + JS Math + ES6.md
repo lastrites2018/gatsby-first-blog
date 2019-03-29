@@ -1,5 +1,5 @@
 ---
-title: 20180905 Git Command Patch Failed + JS Math + ES6
+title: Git Command Patch Failed + JS Math + ES6
 date: 2018-09-05
 category: TIL
 ---
