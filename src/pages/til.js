@@ -26,7 +26,6 @@ function getDistance(currentPos) {
 export default ({ data, location }) => {
   const initialCount = Storage.getCount(1)
   const initialCategory = Storage.getCategory(CATEGORY_TYPE.ALL)
-  console.log('initialCategory: ', initialCategory)
   const [count, setCount] = useState(initialCount)
   const countRef = useRef(count)
   const [category, setCategory] = useState(initialCategory)
@@ -75,12 +74,13 @@ export default ({ data, location }) => {
   return (
     <Layout location={location} title={siteMetadata.title}>
       <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
-      <Bio />
-      <Category
+      {/* <Bio /> */}
+      {/* <Category
         categories={categories}
         category={category}
         selectCategory={selectCategory}
-      />
+      /> */}
+      <span>Today I Learned</span>
       <Contents
         posts={posts}
         countOfInitialPost={countOfInitialPost}
@@ -103,8 +103,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      # filter: { frontmatter: { category: { ne: null } } }
-      filter: { frontmatter: { category: { nin: [null, "TIL"] } } }
+      filter: { frontmatter: { category: { eq: "TIL" } } }
     ) {
       edges {
         node {
