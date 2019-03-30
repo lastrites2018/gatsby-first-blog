@@ -76,11 +76,11 @@ export default ({ data, location }) => {
     <Layout location={location} title={siteMetadata.title}>
       <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
       <Bio />
-      {/* <Category
+      <Category
         categories={categories}
         category={category}
         selectCategory={selectCategory}
-      /> */}
+      />
       <Contents
         posts={posts}
         countOfInitialPost={countOfInitialPost}
@@ -103,9 +103,9 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      # filter: { frontmatter: { category: { ne: null } } }
-      filter: { frontmatter: { category: { nin: [null, "TIL"] } } }
-    ) {
+      filter: { frontmatter: { category: { ne: null } } }
+    ) # filter: { frontmatter: { category: { nin: [null, "TIL"] } } }
+    {
       edges {
         node {
           excerpt

@@ -33,7 +33,7 @@ https://repl.it/student/submissions/3704928
 // 메모이제이션을 넣어서 구현하고 싶었는데 실패했다. 아직도 너무 부족하다.
 ```
 
-2. ???
+2.
 
 ```javascript
 https://repl.it/student/submissions/3673320
