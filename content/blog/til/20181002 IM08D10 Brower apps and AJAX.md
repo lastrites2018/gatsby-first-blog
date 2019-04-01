@@ -1,5 +1,5 @@
 ---
-title: IM08D10 Brower apps and AJAX
+title: Immersive Sprint - Brower apps and AJAX
 date: 2018-10-02
 category: TIL
 ---

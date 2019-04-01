@@ -1,5 +1,5 @@
 ---
-title: IM08D06 DATA Structure Day 4
+title: Immersive Sprint - DATA Structure Day 4
 date: 2018-09-22
 category: TIL
 ---

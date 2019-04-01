@@ -1,5 +1,5 @@
 ---
-title: immersive 7기의 데모데이를 보고 왔다
+title: Immersive 7기의 데모데이를 보고 왔다
 date: 2018-09-12
 category: TIL
 ---

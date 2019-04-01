@@ -8,8 +8,6 @@ category: TIL
 
 9/5 Git 에러 메세지를 잘 이해하기 위해서 git command Line 한글 패치를 시도해보려 했으나 실패했다. 자료가 너무 없다. 분명 ko.po 파일은 있는데(https://github.com/git-l10n/git-po) 이걸 어떻게 해야 하는 거지. 다만, 무수한 깃 관련 즐겨찾기만 생겼다. 열심히 찾아보았는데, 윈도우 버전만 발견. http://webdir.tistory.com/222
 
-9/6 알 것 같다. Git을 삭제하고 저 릴리즈 된 걸 재설치하면 될 것 같은데, 과정을 생각하니 머리가 아프다.
-
 ---
 
 ## JS Math
