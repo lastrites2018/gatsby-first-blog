@@ -1,5 +1,5 @@
 ---
-title: IM08D27-D28 총 정리 Hiring Assesment
+title: Immersive Sprint 총 정리
 date: 2018-10-23
 category: TIL
 ---
@@ -62,7 +62,7 @@ https://en.wikipedia.org/wiki/Associative_entity
 
 ```
 
-## 시험 끝나고... 헷갈렸던 부분 정리
+## Immersive Sprint 성취 평가시험 끝나고... 헷갈렸던 부분 정리
 
 - Time Complexity
 
