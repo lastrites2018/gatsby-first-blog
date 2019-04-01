@@ -84,8 +84,6 @@ https://jgthms.com/web-design-in-4-minutes/
 
 ### EC2 접속
 
-ssh -i ~/.ssh/MyKeyPair.pem ec2-user@34.217.9.241
-
 https://aws.amazon.com/ko/getting-started/tutorials/launch-a-virtual-machine/?trk=gs_card
 
 ### nginx
