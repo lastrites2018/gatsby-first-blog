@@ -35,7 +35,7 @@ category: 'development'
 
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 괄호의 단계별로 다른 색을 적용해주는 확장. 괄호를 잘못 닫는 문제를 예방해주고, 작성 중인 코드 영역이 어디인지 분명하게 표시해줍니다.
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 코드 스타일은 Prettier에게 맡기고 더 심각한 문제, 변수 이름 작명 같은 걸 더 고민해봅시다.
-  - j[avascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) 자바스크립트 코딩하며 지겨울 정도로 쳐야 하는 console.log를 단축키로 해결해줍니다.
+  - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) 자바스크립트 코딩하며 지겨울 정도로 쳐야 하는 console.log를 단축키로 해결해줍니다.
   - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) CSS에서 RGB나 hex코드가 무슨 색인지 바로 표시해줍니다.
   - [Todo-Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) 미래의 나에게 퀘스트를 보내봅시다. 주석에도 HightLight이 됩니다. 커스텀 키워드를 설정할 수도 있습니다.
   - [OverType](https://marketplace.visualstudio.com/items?itemName=adammaras.overtype) 코드 작성시에 삽입 모드 대신 가끔 수정 모드가 필요하다고 느끼신다면.
