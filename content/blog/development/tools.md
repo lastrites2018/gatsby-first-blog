@@ -46,7 +46,7 @@ category: 'development'
   - [Learn Git Branching](https://learngitbranching.js.org/) (웹사이트) 코드를 날려먹을 걱정 없는 안전한 환경에서, Git master가 되어보세요. Git에 어느정도 익숙하다면 원격 퀘스트부터 클리어 하는 것이 도움이 될 수도 있습니다. 한글판 지원!
   - [깃을 위한 flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md) (웹사이트) 우주비행선 조종하는 것마냥 깃이 어렵게 느껴질 때가 있습니다. 깃 문제에 부딪히면 바로 찾아볼 수 있는 가이드.
 
-- DBㅔ
+- DB
   - [Database](https://dbdiagram.io/) 코드 입력만으로 DB 구조를 그릴 수 있습니다. 정성껏 선을 긋는데 시간을 버리지 맙시다.
 
 새로운 툴을 시도하는 걸 두려워하지 마세요. '설치만 하고 나중에 써봐야지.' 안 됩니다. 설치하셨다면, 단 1분이라도 사용해보세요. 사용하지 않은 도구는 기억에서 잊혀집니다. 최소한 당신의 도구가 어떻게 생겼는지는 알아야 나중에라도 꺼내들 수 있습니다. 혹시 여기에 언급되진 않았지만, 개발을 이제 막 시작하는 친구에게 꼭 알려주고 싶은 도구가 있다면 코멘트를 남겨주시면 좋겠습니다.
