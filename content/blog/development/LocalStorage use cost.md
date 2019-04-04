@@ -16,7 +16,11 @@ Results:
 
 **In short - just use it. It takes no time. 0.0007 of 1 millisecond.**
 
-로컬 스토리지 액세스 시간은 쿠키보다 빠릅니다. 로컬 스토리지를 읽는 방식은 동기 방식이지만, 속도가 워낙 빠르기 때문에 blocking의 위험은 전혀 없음. 다만, 개인정보 같은 예민한 데이터는 가급적 로컬 스토리지에 저장하지 않는게 좋음. 암호화 해서 저장하는 방법도 있지만, 자바스크립트 암호 모듈이 썩 쓸만한게 아직 없는 모양.
+## 결론
+
+로컬 스토리지 액세스 시간은 쿠키보다 빠릅니다. 로컬 스토리지를 읽는 방식은 동기 방식이지만, 속도가 워낙 빠르기 때문에 blocking의 위험은 없습니다.
+
+다만, 개인정보 같은 예민한 데이터는 가급적 로컬 스토리지에 저장하지 않는게 좋음. 암호화 해서 저장하는 방법도 있지만, 자바스크립트 암호 모듈이 썩 쓸만한게 아직 없는 모양.
 
 IE 8에서도 사용 가능.
 
@@ -39,3 +43,7 @@ localStorage 사용법
 <https://www.stevesouders.com/blog/2014/02/11/measuring-localstorage-performance/>
 
 <http://crocodillon.com/blog/always-catch-localstorage-security-and-quota-exceeded-errors>
+
+https://www.taniarascia.com/how-to-use-local-storage-with-javascript
+
+https://www.reddit.com/r/javascript/comments/52jxnc/using_localstorage_extensively_any_risks_or/
