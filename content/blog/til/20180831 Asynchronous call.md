@@ -27,15 +27,17 @@ otehrCode(executableCode()) // 함수를 실행시킨 리턴값을 넘겨줌.
 
 task를 하나 하나 적어보는 연습이 중요하다.
 
-```javascript
 EVENT-DRIVEN TASKS
-	식당에서 식사하기
+
+- 식당에서 식사하기
 - 메뉴를 확인한다.
 - 김밥을 주문한다.
 - 수저와 젓가락을 탁자에 올려놓는다.
 - 김치를 가져온다.
 - 식사를 먹는다.
+-
 
+```javascript
 haveLunch()
 - checkMenu()
 - order('김밥') // <- 이게 5분이 걸린다면? (return이 무의미해진다)
@@ -59,7 +61,6 @@ order('김밥', eat)
 //일단 실행하게 하고, 준비되면 (이벤트가 발생하면) 먹도록 하자
 
 비동기는 비동기의 패턴으로 몰아넣는다.
-
 ```
 
 ## setTimeout(callback, millisecond)
