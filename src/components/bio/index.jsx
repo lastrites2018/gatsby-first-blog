@@ -9,6 +9,8 @@ export const Bio = () => (
     query={bioQuery}
     render={data => {
       const { author, social, introduction } = data.site.siteMetadata
+      const notionLink =
+        'https://www.notion.so/e9855fdbad514ce6a1f6189a8a2115be?v=70dced5e655048c1b7b22abf8d19ee29'
 
       return (
         <div className="bio">
@@ -24,13 +26,37 @@ export const Bio = () => (
               />
               <div className="author-name">
                 <span className="author-name-prefix">Written by</span>
-                <Link to={'/about'} className="author-name-content">
+                <a
+                  href={`https://github.com/${social.github} `}
+                  target="_blank"
+                  rel="noopener"
+                >
+                  {author}
+                </a>
+                {/* <Link to={'/about'}>
+                  <Link to={'/about'} className="author-name-content">
                   <span>@{author}</span>
-                </Link>
+                </Link> */}
                 <div className="author-introduction">{introduction}</div>
                 <p className="author-socials">
-                  {social.github && (
-                    <a href={`https://github.com/${social.github}`}>GitHub</a>
+                  {/* {social.github && (
+                    <a
+                      href={`https://github.com/${social.github} `}
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      GitHub
+                    </a>
+                  )} */}
+                  {notionLink && (
+                    <a
+                      href={`${notionLink}`}
+                      target="_blank"
+                      rel="noopener"
+                      className="author-name-content"
+                    >
+                      👉삽질의 역사는 노션 WIKI에서
+                    </a>
                   )}
                   {social.medium && (
                     <a href={`https://medium.com/${social.medium}`}>Medium</a>
