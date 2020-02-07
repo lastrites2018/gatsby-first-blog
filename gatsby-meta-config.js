@@ -1,16 +1,16 @@
 module.exports = {
   title: `lastrites2018`,
-  description: `Blog posted about ...`,
+  description: `Blog posted about React`,
   author: `lastrites2018`,
   introduction: `I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://lastrites2018.netlify.com`,
   social: {
-    twitter: ``, // Your Twitter account
-    github: `lastrites2018`, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
+    twitter: ``,
+    github: `lastrites2018`,
+    medium: ``,
+    facebook: ``,
   },
-  icon: `content/assets/penguin.png`, // Add your favicon
+  icon: `content/assets/penguin.png`,
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
