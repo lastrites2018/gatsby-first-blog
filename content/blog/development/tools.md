@@ -8,7 +8,7 @@ category: 'development'
 
 아무것도 없이 '안녕, 세상'부터 외쳐볼 수도 있지만, 여러 툴을 가진 상태로 시작한다면 핵심적인 목적인 코딩에 더 집중할 수 있지 않을까요? 개발하기 전의 내게 누군가 좀 알려줬으면 좋았을 텐데 싶은 도구들만 싹싹 긁어서 모았습니다. 사용하신다면, 아마 이 글을 읽는 시간보다 많은 시간을 벌게 되실 겁니다.
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1g1m8m3enizj31de0rsnpf.jpg)
+![](https://images.unsplash.com/photo-1534190239940-9ba8944ea261?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
 
 ###### 대체 무엇을 써야 하는 걸까?
 
